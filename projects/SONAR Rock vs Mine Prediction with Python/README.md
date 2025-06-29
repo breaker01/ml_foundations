@@ -13,8 +13,6 @@ This is an end-to-end machine learning project using Python to classify objects 
   - **'R'** → Rock
   - **'M'** → Mine
 
-Dataset Source:  
-[🔗 UCI Machine Learning Repository - SONAR Dataset](https://archive.ics.uci.edu/ml/datasets/connectionist+bench+(sonar,+mines+vs.+rocks))
 
 ---
 
