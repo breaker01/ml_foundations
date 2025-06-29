@@ -32,3 +32,4 @@ coverage/
 *.swo
 
 push.sh
+notes_steps.txt
