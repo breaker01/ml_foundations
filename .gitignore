@@ -33,3 +33,5 @@ coverage/
 
 push.sh
 notes_steps.txt
+sonar-env/
+setup.txt
