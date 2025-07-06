@@ -13,3 +13,4 @@ Each project is designed to help understand the core concepts of machine learnin
 The projects cover various real-world datasets and focus on applying different machine learning algorithms to solve classification or regression problems.
 
 This repository serves as a hands-on resource to strengthen machine learning skills and build a solid foundation for future learning and development.
+
